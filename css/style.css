@@ -46,3 +46,9 @@ form input{
     display: flex;
     justify-content: center;
 }
+
+
+body {
+    background: #9d9b9b;
+    color: #303030;
+    }
