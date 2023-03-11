@@ -49,6 +49,14 @@ form input{
 
 
 body {
-    background: #9d9b9b;
+    background-color: #9d9b9b;
     color: #303030;
     }
+
+#logindiv  {
+    width: 100%;
+    display: flex;
+    min-height: 83px;
+    margin-top: 25px;
+}
+
