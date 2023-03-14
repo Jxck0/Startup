@@ -60,3 +60,12 @@ body {
     margin-top: 25px;
 }
 
+img{
+    width: 130px;
+    height: 130px;
+}
+
+#imgdiv{
+    display: flex;
+    justify-content: center;
+}
