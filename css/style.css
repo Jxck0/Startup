@@ -238,3 +238,11 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+h1 #title {
+	text-align: center;
+	align-items: center;
+    justify-content: center; 
+	position: center;
+	
+}
