@@ -195,7 +195,6 @@ footer {
 }
 
 
-
 .inter_titre{
 	display: flex;
 	justify-content: center;
@@ -210,7 +209,7 @@ footer {
 	margin-top: 150px;
 	display: flex;
 	justify-content: center;
-	color: white;
+	color: black;
 	padding: 10px 0px;
 	width: 90%;
 	font: small-caps bold 30px/1 sans-serif;
@@ -219,4 +218,23 @@ footer {
 .icon {
 	height:50px; 
 	width:50px; 
+}
+
+#divcon, #divinc{
+	text-align: center;
+}
+
+#btncon{
+    display: flex;
+    justify-content: center;
+}
+#logindiv{
+    width: 100%;
+    display: flex;
+    min-height: 83px;
+    margin-top: 25px;
+}
+#registerdiv{
+    display: flex;
+    justify-content: center;
 }

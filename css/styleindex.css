@@ -16,7 +16,7 @@
 }
 
 .descriptionindex {
-	font-size: 1vh;
+	font-size: 10vh;
 	margin: 0px 56% 0px 0px;
 }
 
@@ -43,6 +43,8 @@
 }
 .boutonindex {
 	margin: 10vh 0px 0px 0px;
+	margin-left: 30vh;
+
 }
 
 
